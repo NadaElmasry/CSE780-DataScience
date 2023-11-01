@@ -17,6 +17,6 @@ Through the Application, users can choose to display the employment trend for a 
 
 #### Sample Output
 
-![Employment Trend for Professional health Occupations in Ontario from January 2019 to August 2023.](images\one-prov-output.png "Employment Trend for Professional health Occupations in Ontario from January 2019 to August 2023.")
+![Employment Trend for Professional health Occupations in Ontario from January 2019 to August 2023.](images/one-prov-output.png "Employment Trend for Professional health Occupations in Ontario from January 2019 to August 2023.")
 
-![Employment Trend for Professional health Occupations for all provinances from January 2019 to August 2023.](images\all-prov-output.png "Employment Trend for Professional health Occupations for all provinances from January 2019 to August 2023.")
+![Employment Trend for Professional health Occupations for all provinances from January 2019 to August 2023.](images/all-prov-output.png "Employment Trend for Professional health Occupations for all provinances from January 2019 to August 2023.")
